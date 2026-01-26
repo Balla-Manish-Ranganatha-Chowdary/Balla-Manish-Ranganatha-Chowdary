@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final-year B.Tech Computer Engineering student driven by a deep passion for coding and open-source innovation. My academic journey has been defined by a hands-on approach to building impactful projects, where I constantly seek to bridge the gap between theoretical concepts and real-world solutions. Currently, I am expanding my technical expertise by exploring the intersections of Artificial Intelligence, cloud computing, and full-stack development, with the goal of creating scalable, efficient, and user-centric applications.
+I am a final-year B.Tech Computer Engineering student driven by a deep passion for coding and open-source innovation. My academic journey has been defined by a hands-on approach to building impactful projects, where I constantly seek to bridge the gap between theoretical concepts and real-world solutions. Currently, I am expanding my technical expertise by exploring the domains of Artificial Intelligence,Machine Learning, Generative AI, Data Science and Data Analysis, with the goal of creating scalable, efficient, and user-centric applications.
 
 
 ## 🌐 Socials:
